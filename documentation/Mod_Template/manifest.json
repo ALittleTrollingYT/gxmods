@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "LAYERS",
+    "description": "Koraii",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "ALittleTrollingYT"
     },
     "icons":
     {
@@ -17,10 +17,10 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/EQUINOX Showcase! Sols RNG (Old Version).mp3",
+                "music/EQUINOX Showcase! Sols RNG (Old Version).mp3",
+                "music/EQUINOX Showcase! Sols RNG (Old Version).mp3",
+                "music/EQUINOX Showcase! Sols RNG (Old Version).mp3"
             ],
             "browser_sounds":
             {
